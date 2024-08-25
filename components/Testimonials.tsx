@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react'
 const testimonialsData = [
   {
     image: '/assets/img40.jpeg',
-    quote: 'True Events transformed our wedding into a magical experience. The attention to detail was incredible, and the decor was simply stunning. We couldn’t have asked for a better team!',
+    quote: 'True Events transformed our wedding into a magical experience. The attention to detail was incredible, and the decor was simply stunning. We couldn not have asked for a better team!',
     name: 'David Rhymes'
   },
   {

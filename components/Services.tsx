@@ -28,7 +28,7 @@ const Services = () => {
                 <span className='text-3xl font-semibold'>Event Decor</span>
               </div>
               <p className='max-w-md text-center md:text-left'>
-              We specialize in transforming ordinary venues into breathtaking settings that capture the essence of your celebration. Whether it's a wedding, corporate event, or private party, our team carefully designs every detail—from stunning floral arrangements to elegant lighting and sophisticated table settings. We work closely with you to bring your vision to life, ensuring a beautifully crafted environment that leaves a lasting impression on you and your guests.
+              We specialize in transforming ordinary venues into breathtaking settings that capture the essence of your celebration. Whether it is a wedding, corporate event, or private party, our team carefully designs every detail—from stunning floral arrangements to elegant lighting and sophisticated table settings. We work closely with you to bring your vision to life, ensuring a beautifully crafted environment that leaves a lasting impression on you and your guests.
               </p>
             </div>
           </div>
