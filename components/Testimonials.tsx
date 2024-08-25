@@ -5,17 +5,17 @@ import React, { useState, useEffect } from 'react'
 const testimonialsData = [
   {
     image: '/assets/img40.jpeg',
-    quote: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi eius explicabo necessitatibus aliquam culpa dolore tempora ipsa asperiores nesciunt fugiat, excepturi nihil quibusdam doloremque, provident modi nulla nam, fugit quis.',
+    quote: 'True Events transformed our wedding into a magical experience. The attention to detail was incredible, and the decor was simply stunning. We couldn’t have asked for a better team!',
     name: 'David Rhymes'
   },
   {
     image: '/assets/img26.jpeg',
-    quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
+    quote: 'Working with True Events was a breeze. They handled everything with such professionalism and creativity. Our corporate event was a huge success, thanks to their impeccable decor and planning.',
     name: 'Sarah Connor'
   },
   {
     image: '/assets/img26.jpeg',
-    quote: 'Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam.',
+    quote: 'The team at True Events took our vision and turned it into reality. Every detail was perfect, and our guests were blown away by the decor. Highly recommend!',
     name: 'John Doe'
   }
 ];

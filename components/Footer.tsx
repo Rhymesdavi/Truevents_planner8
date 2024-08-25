@@ -20,7 +20,7 @@ const Footer = () => {
                                     Get In Touch
                                 </span>
                                 <span className='max-w-sm text-sm sm:text-base'>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, officia quae. Optio nisi est cum voluptatum nesciunt, magni asperiores accusamus.
+                                    We are here to make your dream event a reality. Together, let's create something unforgettable!
                                 </span>
                                 <div className='flex gap-2 justify-center sm:justify-start'>
                                     {['instagram', 'facebook', 'tiktok', 'linkedIn', 'youtube'].map((social) => (

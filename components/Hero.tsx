@@ -40,7 +40,7 @@ const Hero = () => {
             <span>Your Events With True Vibes</span>
           </div>
           <p className="text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti voluptates, modi, illum accusantium quis voluptas eum ad inventore aliquam, vel quos vitae. Ullam itaque ex officiis dicta modi expedita quam?
+            At True Events Management Limited, we turn every celebration into a memorable experience. From intimate gatherings to grand affairs, we bring creativity, energy, and elegance to every event. Let us take care of the details, so you can fully enjoy the moment. With us, your events aren't just occasions—they're unforgettable experiences
           </p>
           <a href='#about'>
             <button className="button self-start text-sm md:text-xl rounded-md py-2 md:py-4 px-4 md:px-8 bg-[#F88109]">
