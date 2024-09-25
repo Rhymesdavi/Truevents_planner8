@@ -10,14 +10,14 @@ const About = () => {
           <div className='relative h-[50vh] md:h-[95vh] flex justify-center items-center'>
             <Image
               className='rounded-md z-0 h-full object-cover'
-              src={'/assets/img16.jpeg'}
+              src={'/assets/asset2.jpeg'}
               width={684}
               height={684}
               alt=''
             />
             <Image
-              className='absolute top-1/2 right-1/2 transform -translate-y-1/2 translate-x-1/2 bg-white p-4 h-[60%] md:h-[70%] object-cover'
-              src={'/assets/img9.jpeg'}
+              className='absolute top-1/2 right-1/2 transform -translate-y-1/2 translate-x-1/2 bg-white p-4 rounded-lg h-[60%] md:h-[70%] object-cover'
+              src={'/assets/asset3.jpeg'}
               width={442}
               height={542}
               alt=''
@@ -96,9 +96,8 @@ const About = () => {
           </div>
           <div className='flex flex-col md:flex-row gap-16 justify-center'>
             {[
-              { src: '/assets/img40.jpeg', name: 'Grace Nike', role: 'Manager' },
-              { src: '/assets/img31.jpeg', name: 'Martin Munene', role: 'Manager' },
-              { src: '/assets/img26.jpeg', name: 'Jane Akachi', role: 'Manager' }
+              { src: '/assets/man1.jpeg', name: 'Grace Nike', role: 'Manager' },
+              { src: '/assets/man2.jpeg', name: 'Martin Munene', role: 'Manager' },
             ].map((member, index) => (
               <div key={index} className='relative flex flex-col items-center'>
                 <Image

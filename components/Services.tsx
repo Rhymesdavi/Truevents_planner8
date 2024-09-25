@@ -184,7 +184,7 @@ const Services = () => {
       <div className='flex flex-wrap gap-4 justify-center w-full mt-8 px-4'>
         <div className='flex justify-center'>
           <Image
-            src={'/assets/lighthouse.jpeg'}
+            src={'/assets/log1.jpeg'}
             width={284}
             height={84}
             alt=''
@@ -192,7 +192,7 @@ const Services = () => {
         </div>
         <div className='flex justify-center'>
           <Image
-            src={'/assets/photoshoper.jpeg'}
+            src={'/assets/log2.jpeg'}
             width={284}
             height={84}
             alt=''
@@ -200,17 +200,65 @@ const Services = () => {
         </div>
         <div className='flex justify-center'>
           <Image
-            src={'/assets/astorry.jpeg'}
+            src={'/assets/asset9.jpeg'}
             width={284}
-            height={84}
+            height={64}
             alt=''
           />
         </div>
         <div className='flex justify-center'>
           <Image
-            src={'/assets/mirolly.jpeg'}
+            src={'/assets/log4.jpg'}
             width={284}
-            height={84}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/log3.png'}
+            width={284}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/log5.png'}
+            width={284}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/log6.jpg'}
+            width={284}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/log7.jpeg'}
+            width={284}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/log8.jpeg'}
+            width={284}
+            height={64}
+            alt=''
+          />
+        </div>
+        <div className='flex justify-center'>
+          <Image
+            src={'/assets/asset12.jpeg'}
+            width={284}
+            height={64}
             alt=''
           />
         </div>

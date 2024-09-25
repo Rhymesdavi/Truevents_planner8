@@ -14,7 +14,7 @@ const Gallery = () => {
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4'>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset1.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -22,7 +22,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
+              src='/assets/asset2.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -30,7 +30,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset3.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -38,7 +38,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img4.jpeg' 
+              src='/assets/asset4.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -46,7 +46,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img5.jpeg' 
+              src='/assets/asset5.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -54,7 +54,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img6.jpeg' 
+              src='/assets/asset6.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -62,7 +62,15 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img8.jpeg' 
+              src='/assets/asset7.jpeg' 
+              alt='Gallery' layout='fill' 
+              objectFit='cover' 
+              className='rounded-lg transition-transform duration-300 hover:scale-110'
+            />
+          </div>
+          <div className='relative w-full h-64'>
+            <Image 
+              src='/assets/asset8.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -78,7 +86,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img11.jpeg' 
+              src='/assets/asset10.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -86,7 +94,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset11.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -94,7 +102,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
+              src='/assets/asset12.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -102,7 +110,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset13.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -110,7 +118,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset14.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -118,7 +126,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
+              src='/assets/asset15.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -126,7 +134,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset16.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -134,7 +142,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset17.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -142,7 +150,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
+              src='/assets/asset18.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -150,7 +158,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset19.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -158,7 +166,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset20.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -166,7 +174,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
+              src='/assets/asset21.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -174,7 +182,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset22.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -182,7 +190,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img1.jpeg' 
+              src='/assets/asset23.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'
@@ -190,15 +198,7 @@ const Gallery = () => {
           </div>
           <div className='relative w-full h-64'>
             <Image 
-              src='/assets/img2.jpeg' 
-              alt='Gallery' layout='fill' 
-              objectFit='cover' 
-              className='rounded-lg transition-transform duration-300 hover:scale-110'
-            />
-          </div>
-          <div className='relative w-full h-64'>
-            <Image 
-              src='/assets/img7.jpeg' 
+              src='/assets/asset24.jpeg' 
               alt='Gallery' layout='fill' 
               objectFit='cover' 
               className='rounded-lg transition-transform duration-300 hover:scale-110'

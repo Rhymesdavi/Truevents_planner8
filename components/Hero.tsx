@@ -5,9 +5,10 @@ import InfoCard from './InfoCard';
 import Image from 'next/image';
 
 const images = [
-  '/assets/img1.jpeg',
-  '/assets/img2.jpeg',
-  '/assets/img4.jpeg'
+  '/assets/asset19.jpeg',
+  '/assets/asset31.jpeg',
+  '/assets/asset20.jpeg',
+  '/assets/asset2.jpeg'
   // Add more images as needed
 ];
 
