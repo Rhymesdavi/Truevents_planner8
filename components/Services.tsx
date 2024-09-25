@@ -49,7 +49,7 @@ const Services = () => {
             <div className='flex justify-center relative z-10'>
               <Image
                 className='rounded-md object-cover h-full w-full'
-                src={'/assets/img1.jpeg'}
+                src={'/assets/asset6.jpeg'}
                 width={584}
                 height={584}
                 alt=''
@@ -62,7 +62,7 @@ const Services = () => {
             <div className='order-1 md:order-none flex justify-center relative z-10'>
               <Image
                 className='rounded-md object-cover h-full w-full'
-                src={'/assets/img1.jpeg'}
+                src={'/assets/asset30.jpeg'}
                 width={584}
                 height={584}
                 alt=''
@@ -97,7 +97,7 @@ const Services = () => {
             <div className='flex justify-center relative z-10'>
               <Image
                 className='rounded-md object-cover h-full w-full'
-                src={'/assets/img1.jpeg'}
+                src={'/assets/asset5.jpeg'}
                 width={584}
                 height={584}
                 alt=''
@@ -110,7 +110,7 @@ const Services = () => {
             <div className='order-1 md:order-none flex justify-center relative z-10'>
               <Image
                 className='rounded-md object-cover h-full w-full'
-                src={'/assets/img1.jpeg'}
+                src={'/assets/asset2.jpeg'}
                 width={584}
                 height={584}
                 alt=''
@@ -136,7 +136,7 @@ const Services = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 px-14 md:px-8 lg:px-24 items-center">
           <div className="w-full h-[300px] md:h-full rounded-md overflow-hidden relative flex justify-center">
             <Image
-              src={'/assets/img7.jpeg'}
+              src={'/assets/asset4.jpeg'}
               layout='fill'
               objectFit='cover'
               alt=''

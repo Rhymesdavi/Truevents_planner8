@@ -129,7 +129,7 @@ code {
 
 .testimonial1 {
   @apply no-scrollbar flex w-full max-xl:max-h-screen max-xl:overflow-y-scroll bg-cover bg-center;
-  background-image: url('/assets/img8.jpeg');
+  background-image: url('/assets/asset24.jpeg');
 }
 
 .footer {
